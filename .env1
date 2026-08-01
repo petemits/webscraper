@@ -1,0 +1,17 @@
+# Server Configuration
+PORT=3000
+NODE_ENV=development
+
+# Scraping Configuration
+REQUEST_DELAY=2000
+MAX_RETRIES=3
+TIMEOUT=30000
+
+# Proxy Configuration (if you have paid proxies)
+PROXY_URL=
+PROXY_USERNAME=
+PROXY_PASSWORD=
+
+# API Keys (for scraping services - optional)
+WEBSCRAPING_AI_API_KEY=
+SCRAPERAPI_KEY=

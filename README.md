@@ -7,7 +7,7 @@
 **Entry Point**: `server.js`  
 **Codebase**: 3 source files, 541 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 2 class(es): EnhancedScraper, WebScraper, 5 function(s): extractText, to, extractAllText, delay, extractAttributes
+**Key Components**: 2 class(es): EnhancedScraper, WebScraper, 5 function(s): extractAllText, extractAttributes, delay, to, extractText
 
 This project contains 2 class(es) and 5 function(s).
 
@@ -43,18 +43,22 @@ I move fast. I build MVPs, iterate based on user feedback, and ship features tha
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
 
-1. SaaS API Gateway: Enable multi‑tenant API access with role‑based authentication.
-2. Subscription Management: Process billing events and synchronise user entitlements.
+1. Subscription Management: Process billing events and synchronise user entitlements.
+2. SaaS API Gateway: Enable multi‑tenant API access with role‑based authentication.
 3. Customer Analytics: Capture and aggregate user interactions to drive product decisions.
 
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
+- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
+- Sustainable Architecture: Reduces energy consumption, aligning technology with environmental goals.
+- High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
+- Rapid Prototyping Capabilities: Enables quick validation of ideas, reducing cost of failure.
+- Effortless Maintenance: Designed for easy updates, patching, and long‑term supportability.
+- Reduced Churn: Proactively identifies and addresses factors that cause customer attrition.
+- User Retention: Enhances customer experience through personalisation and faster response times.
 - Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
-- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
-- Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
 - Scalability: Designed to handle growing volumes without proportional cost increases.
-- Risk Reduction: Automates compliance checks and error‑prone processes, minimising human error.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -63,13 +67,11 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
-- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
+- Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
 - Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
 - Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
-- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
-- Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
+- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
+- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
 
 
 ## 📁 Project Structure
@@ -93,3 +95,16 @@ npm start
 - **Missing dependencies**: Ensure prerequisites are installed and in your PATH.
 - **Port conflicts**: If using a web server, check that the port is free.
 - **Configuration**: Double-check your `.env` or config files.
+
+## 📬 Contact & Collaboration
+
+**Name**: mis p  
+**Phone**: +1 647-717-0929  
+**Email**: [amit.mits.puri@gmail.com](mailto:amit.mits.puri@gmail.com)  
+
+I am open to freelance, contract, and full‑time opportunities. Feel free to reach out directly.
+
+> **💡 Want a contact form?**  
+> You can easily add a contact form to your GitHub Pages site using a free service like [Formspree](https://formspree.io/).  
+> Just create a `contact.html` page, embed the form, and it will forward messages to this email.  
+> *I can help you set that up if needed.*

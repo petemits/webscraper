@@ -7,7 +7,7 @@
 **Entry Point**: `server.js`  
 **Codebase**: 3 source files, 541 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 2 class(es): EnhancedScraper, WebScraper, 5 function(s): extractAttributes, extractAllText, delay, extractText, to
+**Key Components**: 2 class(es): WebScraper, EnhancedScraper, 5 function(s): extractAllText, extractAttributes, extractText, to, delay
 
 This project contains 2 class(es) and 5 function(s).
 
@@ -24,9 +24,9 @@ This project contains 2 class(es) and 5 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Real-Time Response Specialist
+## 🧠 My Approach: The Integration Orchestrator
 
-I build systems that react in milliseconds. From live dashboards to real‑time notifications, I enable instant decision‑making.
+I connect siloed systems. Whether it's CRMs, ERPs, or legacy mainframes, I build bridges that enable seamless data flow.
 
 ### 📌 My Focus & Track Record
 - **Role**: AI Systems Integrator
@@ -38,24 +38,25 @@ I build systems that react in milliseconds. From live dashboards to real‑time 
 ### 🎯 Why This Project Exists
 **webscraper** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Operations Teams**: I build real‑time monitoring and alerting that keeps your finger on the pulse.
+**For Enterprise IT**: I reduce complexity by harmonising disparate systems.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
 
 1. Subscription Management: Process billing events and synchronise user entitlements.
-2. SaaS API Gateway: Enable multi‑tenant API access with role‑based authentication.
-3. Customer Analytics: Capture and aggregate user interactions to drive product decisions.
+2. Customer Analytics: Capture and aggregate user interactions to drive product decisions.
+3. SaaS API Gateway: Enable multi‑tenant API access with role‑based authentication.
 
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Cross‑Functional Collaboration: Bridges gaps between business, design, and engineering teams.
+- Scalability: Designed to handle growing volumes without proportional cost increases.
+- Actionable Business Insights: Transforms raw metrics into strategic intelligence.
+- Improved Developer Productivity: Streamlines workflows, reduces boilerplate, and improves developer happiness.
+- Enhanced Security Posture: Builds robust threat defence and data privacy into the application architecture.
+- Real‑Time Monitoring & Observability: Provides deep system visibility, enabling proactive issue resolution.
+- User Retention: Enhances customer experience through personalisation and faster response times.
 - Market Agility: Enables rapid iteration and deployment of new features.
-- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
-- Reduced Churn: Proactively identifies and addresses factors that cause customer attrition.
-- Sustainable Architecture: Reduces energy consumption, aligning technology with environmental goals.
-- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -64,9 +65,9 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
+- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
+- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
 - Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
-- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
 - CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
 
 ## 🤖 AI Tools & Integrations (A–Z)
@@ -128,6 +129,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
